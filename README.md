@@ -19,8 +19,8 @@ To use this template, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/oussamaboulakhbar/REACT-TAILWINDcss.git
+   cd <REACT-TAILWINDcss>
    ```
 
 2. **Install dependencies:**
