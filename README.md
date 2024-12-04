@@ -5,12 +5,12 @@ This template provides a minimal setup to get React working in Vite with **HMR**
 
 ## Review
 <a href="https://stackblitz.com/~/github.com/oussamaboulakhbar/React-Tailwindcss-LandingPage" target="_blank" >Visit landing page</a>
-[go](http://stackoverflow.com){:target="_blank"}.
+
 
 
 
 ## Getting Started
-
+[go](http://stackoverflow.com){:target="_blank"}.
 To use this template, follow these steps:
 
 1. **Clone the repository:**
