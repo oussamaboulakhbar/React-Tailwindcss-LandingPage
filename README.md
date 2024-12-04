@@ -3,15 +3,10 @@
 
 This template provides a minimal setup to get React working in Vite with **HMR** (Hot Module Replacement) and some **ESLint** rules for code quality and consistency.
 
-## Available Plugins
+## Review
+<a href="https://stackblitz.com/~/github.com/oussamaboulakhbar/React-Tailwindcss-LandingPage">Go to review</a>
 
-Currently, two official plugins are available to integrate React with Vite:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)  
-  Uses [Babel](https://babeljs.io/) for Fast Refresh (HMR), ensuring smooth development experience and compatibility with a wide range of features.
-
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)  
-  Uses [SWC](https://swc.rs/) (a super-fast JavaScript/TypeScript compiler) for Fast Refresh, providing faster builds and improved performance.
 
 ## Getting Started
 
