@@ -4,7 +4,7 @@
 This template provides a minimal setup to get React working in Vite with **HMR** (Hot Module Replacement) and some **ESLint** rules for code quality and consistency.
 
 ## Review
-<a href="https://stackblitz.com/~/github.com/oussamaboulakhbar/React-Tailwindcss-LandingPage">Go to review</a>
+<a href="https://stackblitz.com/~/github.com/oussamaboulakhbar/React-Tailwindcss-LandingPage" target="_blank" >Go to review</a>
 
 
 
